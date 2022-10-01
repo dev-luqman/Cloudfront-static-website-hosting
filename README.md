@@ -4,7 +4,7 @@ In this project, you will deploy a static website to AWS using S3, CloudFront, a
 
 The files included are: 
 
-index.html - The Index document for the website.
+## index.html - The Index document for the website.
 1. /img - The background image file for the website.
 2. /img/aws - The images from aws resourses showing the result
 3. /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
