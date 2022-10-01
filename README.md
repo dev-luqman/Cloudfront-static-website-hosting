@@ -1,4 +1,4 @@
-#Deploy Static Website on AWS
+# Deploy Static Website on AWS
 
 In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
 
@@ -11,7 +11,7 @@ index.html - The Index document for the website.
 4. /css - CSS files for the website.
 
 
-##URL Link for the hosted static website
+## URL Link for the hosted static website
 The [cloudFront_url](https://d1ulz5ghgs0fav.cloudfront.net/)
 The [s3-bucket_url](http://my-6923-6136-1937-bucket.s3-website-us-east-1.amazonaws.com/)
 **Note: The url link won't be available once instructor review the assignment and approve**
