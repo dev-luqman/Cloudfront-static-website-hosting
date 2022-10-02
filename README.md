@@ -2,8 +2,6 @@
 
 In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
 
-The files included are: 
-
 ## Project Documents
 1.index.html - The Index document for the website.
 2. /img - The background image file for the website.
