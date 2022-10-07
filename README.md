@@ -19,3 +19,7 @@ The [s3-bucket_url](http://my-6923-6136-1937-bucket.s3-website-us-east-1.amazona
 
 #### Note: 
 The url link won't be available once instructor review the assignment and approve**
+
+<!---
+The url link won't be available once instructor review the assignment and approve**
+--->
