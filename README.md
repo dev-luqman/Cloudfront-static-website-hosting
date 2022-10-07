@@ -2,6 +2,9 @@
 
 In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
 
+## CloudFront - 'Description'
+AWS resourses use for fast content delivery using cache of content at the edge location.
+
 ## Project Documents
 1.index.html - The Index document for the website.
 2. /img - The background image file for the website.
