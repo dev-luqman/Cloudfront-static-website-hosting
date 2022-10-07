@@ -16,4 +16,4 @@ AWS resourses use for fast content delivery using cache of content at the edge l
 ## URL Link for the hosted static website
 The [cloudFront_url](https://d1ulz5ghgs0fav.cloudfront.net/)
 The [s3-bucket_url](http://my-6923-6136-1937-bucket.s3-website-us-east-1.amazonaws.com/)
-**Note: The url link won't be available once instructor review the assignment and approve**
+Note: The url link won't be available once instructor review the assignment and approve**
